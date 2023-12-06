@@ -1,6 +1,6 @@
 {
   "name": "validation-forall",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "he validation-helpers package is a lightweight and versatile set of JavaScript functions designed to streamline data validation tasks in web applications. It offers a collection of convenient methods to validate common data types, ensuring data integrity and enhancing the reliability of user inputs.",
   "main": "index.js",
   "directories": {
