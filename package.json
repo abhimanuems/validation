@@ -1,0 +1,22 @@
+{
+  "name": "validation-forall",
+  "version": "1.0.0",
+  "description": "he validation-helpers package is a lightweight and versatile set of JavaScript functions designed to streamline data validation tasks in web applications. It offers a collection of convenient methods to validate common data types, ensuring data integrity and enhancing the reliability of user inputs.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhimanuems/validation.git"
+  },
+  "author": "abhimanuems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhimanuems/validation/issues"
+  },
+  "homepage": "https://github.com/abhimanuems/validation#readme"
+}
